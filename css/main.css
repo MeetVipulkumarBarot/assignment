@@ -1,0 +1,81 @@
+/*
+Name: Meet Vipulkumar Barot 
+Student Number : 8909602
+*/
+
+body{
+    width: 100%;
+    max-width: 1400px;
+    margin: 0px auto;
+    font: normal normal normal 16px arial;
+    padding: 20px;
+    background-color: #fdecdd;
+}
+
+.both{
+    border: 3px solid #272260;
+    border-radius: 30px;
+    margin: 0px;
+    padding: 15px;
+}
+
+h1,h2{
+    color: #ee4f35;
+    font-variant: small-caps;
+}
+
+main{
+    width: 60vw;
+    float: left;
+    margin: 0px 0px 15px 0px;
+    padding: 10px;
+}
+
+aside{
+    width: 25vw;
+    float: right;
+    margin: 0px 0px 15px 0px;
+    padding: 10px;
+}
+
+.image{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border: 0.5px solid #272260;
+}
+
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+q{
+    font-size: 1.5em;
+    font-family: cursive;
+    font-style: italic;    
+}
+
+aside ul li{
+    list-style: none;
+    line-height: 2;
+}
+
+aside ul li a{
+    text-decoration: none;
+    color: #ee4f35;
+}
+
+aside a:hover{
+    color: #272260;
+}
+
+footer{
+    clear: both;
+}
+
+footer p{
+    font-size: 0.75em;
+    color: #ee4f35;
+}
+
